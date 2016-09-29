@@ -1,0 +1,7 @@
+"sample"
+{
+	"base"		"nutscript"
+	"title"		"Military RP"
+	"author"	"Chessnut"
+	"menusystem"	"1"
+}
